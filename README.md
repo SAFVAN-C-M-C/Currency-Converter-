@@ -10,7 +10,7 @@ This is a simple currency converter app built with **Next.js** and **Tailwind CS
 
 ## Screenshot
 
-![Currency Converter App](./docs/screenshot.png)
+![Currency Converter App](./docs/ScreenShot.png)
 
 *Replace the above link with an actual screenshot of the app once you have one.*
 
@@ -24,7 +24,7 @@ This is a simple currency converter app built with **Next.js** and **Tailwind CS
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/currency-converter-app.git
+git clone https://github.com/SAFVAN-C-M-C/Currency-Converter-.git
 ```
 
 ### 2. Navigate to the project directory
